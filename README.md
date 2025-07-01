@@ -15,11 +15,7 @@ This is a simple **Vehicle Management System** built using Java. The application
 ├── *.class # Compiled Java class files
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
----
 
 ## 🚀 Getting Started
 
@@ -32,12 +28,12 @@ Edit
 2. Compile the Java files:
    ```bash
    javac VehicleApp.java VehicleManager.java
-Run the application:
+3.Run the application:
 
 bash
-Copy
-Edit
 java VehicleApp
+
+
 🧠 Features
 Add, view, and manage vehicle data
 
